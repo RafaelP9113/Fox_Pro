@@ -1,0 +1,154 @@
+cursoradapter
+Error in line 9: Unrecognized command verb.
+CursorSchema =      326RECEBIMENTO D, MATRIZ_FISCAL C(25), FILIAL C(25), NOME_CLIFOR C(25), NF_ENTRADA C(15), SERIE_NF_ENTRADA C(6), CHAVE_NFE C(44), CTB_LANCAMENTO I, CODIGO_FISCAL_OPERACAO C(4), CONTA_CONTABIL_ITEM C(20), DESC_CONTA C(40), CONTA_CONTABIL_IMPOSTO C(20), ID_IMPOSTO I, BASE_IMPOSTO N(8,4), TAXA_IMPOSTO N(10,5), VALOR_IMPOSTO N(8,4)
+Error in line 10: Command contains unrecognized phrase/keyword.
+KeyFieldList = 
+Error in line 24: Syntax error.
+Tables = 
+Error in line 25: Syntax error.
+UpdatableFieldList = 
+Error in line 26: Syntax error.
+UpdateNameList = 
+Error in line 27: Syntax error.
+querylist =      467RECEBIMENTO RECEBIMENTO, MATRIZ_FISCAL MATRIZ_FISCAL, FILIAL FILIAL, NOME_CLIFOR NOME_CLIFOR, NF_ENTRADA NF_ENTRADA, SERIE_NF_ENTRADA SERIE_NF_ENTRADA, CHAVE_NFE CHAVE_NFE, CTB_LANCAMENTO CTB_LANCAMENTO, CODIGO_FISCAL_OPERACAO CODIGO_FISCAL_OPERACAO, 
+Error in line 28: Command contains unrecognized phrase/keyword.
+CONTA_CONTABIL_ITEM CONTA_CONTABIL_ITEM, DESC_CONTA DESC_CONTA, CONTA_CONTABIL_IMPOSTO CONTA_CONTABIL_IMPOSTO, ID_IMPOSTO ID_IMPOSTO, BASE_IMPOSTO BASE_IMPOSTO, TAXA_IMPOSTO TAXA_IMPOSTO, VALOR_IMPOSTO VALOR_IMPOSTO
+Error in line 29: Unrecognized command verb.
+captionlist =      466RECEBIMENTO Recebimento, MATRIZ_FISCAL Matriz Fiscal, FILIAL Filial, NOME_CLIFOR Nome Clifor, NF_ENTRADA Nf Entrada, SERIE_NF_ENTRADA Serie Nf Entrada, CHAVE_NFE Chave Nfe, CTB_LANCAMENTO Ctb Lancamento, CODIGO_FISCAL_OPERACAO Codigo Fiscal Operacao, CONTA_CONTABIL_ITEM Conta Contabil Item, DESC_CONTA Desc Conta, CONTA_CONTABIL_IMPOSTO Conta Contabil Imposto, ID_IMPOSTO Id Imposto, BASE_IMPOSTO Base Imposto, TAXA_IMPOSTO Taxa Imposto, VALOR_IMPOSTO Valor Imposto
+Error in line 30: Command contains unrecognized phrase/keyword.
+defaultsvalueslist = 
+Error in line 31: Syntax error.
+ftablelist = 
+Error in line 32: Syntax error.
+parentcursor = 
+Error in line 33: Syntax error.
+cursoradapter
+Error in line 39: Unrecognized command verb.
+CursorSchema =      326RECEBIMENTO D, MATRIZ_FISCAL C(25), FILIAL C(25), NOME_CLIFOR C(25), NF_ENTRADA C(15), SERIE_NF_ENTRADA C(6), CHAVE_NFE C(44), CTB_LANCAMENTO I, CODIGO_FISCAL_OPERACAO C(4), CONTA_CONTABIL_ITEM C(20), DESC_CONTA C(40), CONTA_CONTABIL_IMPOSTO C(20), ID_IMPOSTO I, BASE_IMPOSTO N(8,4), TAXA_IMPOSTO N(10,5), VALOR_IMPOSTO N(8,4)
+Error in line 40: Command contains unrecognized phrase/keyword.
+KeyFieldList = 
+Error in line 54: Syntax error.
+Tables = 
+Error in line 55: Syntax error.
+UpdatableFieldList = 
+Error in line 56: Syntax error.
+UpdateNameList = 
+Error in line 57: Syntax error.
+querylist =      467RECEBIMENTO RECEBIMENTO, MATRIZ_FISCAL MATRIZ_FISCAL, FILIAL FILIAL, NOME_CLIFOR NOME_CLIFOR, NF_ENTRADA NF_ENTRADA, SERIE_NF_ENTRADA SERIE_NF_ENTRADA, CHAVE_NFE CHAVE_NFE, CTB_LANCAMENTO CTB_LANCAMENTO, CODIGO_FISCAL_OPERACAO CODIGO_FISCAL_OPERACAO, 
+Error in line 58: Command contains unrecognized phrase/keyword.
+CONTA_CONTABIL_ITEM CONTA_CONTABIL_ITEM, DESC_CONTA DESC_CONTA, CONTA_CONTABIL_IMPOSTO CONTA_CONTABIL_IMPOSTO, ID_IMPOSTO ID_IMPOSTO, BASE_IMPOSTO BASE_IMPOSTO, TAXA_IMPOSTO TAXA_IMPOSTO, VALOR_IMPOSTO VALOR_IMPOSTO
+Error in line 59: Unrecognized command verb.
+captionlist =      466RECEBIMENTO Recebimento, MATRIZ_FISCAL Matriz Fiscal, FILIAL Filial, NOME_CLIFOR Nome Clifor, NF_ENTRADA Nf Entrada, SERIE_NF_ENTRADA Serie Nf Entrada, CHAVE_NFE Chave Nfe, CTB_LANCAMENTO Ctb Lancamento, CODIGO_FISCAL_OPERACAO Codigo Fiscal Operacao, CONTA_CONTABIL_ITEM Conta Contabil Item, DESC_CONTA Desc Conta, CONTA_CONTABIL_IMPOSTO Conta Contabil Imposto, ID_IMPOSTO Id Imposto, BASE_IMPOSTO Base Imposto, TAXA_IMPOSTO Taxa Imposto, VALOR_IMPOSTO Valor Imposto
+Error in line 60: Command contains unrecognized phrase/keyword.
+defaultsvalueslist = 
+Error in line 61: Syntax error.
+ftablelist = 
+Error in line 62: Syntax error.
+parentcursor = 
+Error in line 63: Syntax error.
+cursoradapter
+Error in line 69: Unrecognized command verb.
+ÅSelectCmd = SELECT EMISSAO,MATRIZ_FISCAL,FILIAL,NOME_CLIFOR,NF_SAIDA,SERIE_NF,CHAVE_NFE,CTB_LANCAMENTO,CODIGO_FISCAL_OPERACAO,CONTA_CONTABIL_ITEM,DESC_CONTA,CONTA_CONTABIL_IMPOSTO,ID_IMPOSTO,BASE_IMPOSTO,TAXA_IMPOSTO,VALOR_IMPOSTO  FROM VW_ZNZ_PIS_SAIDA
+Error in line 70: Syntax error.
+CursorSchema =      312EMISSAO D, MATRIZ_FISCAL C(25), FILIAL C(25), NOME_CLIFOR C(25), NF_SAIDA C(15), SERIE_NF C(6), CHAVE_NFE C(44), CTB_LANCAMENTO I, CODIGO_FISCAL_OPERACAO C(4), CONTA_CONTABIL_ITEM C(20), DESC_CONTA C(40), CONTA_CONTABIL_IMPOSTO C(20), ID_IMPOSTO I, BASE_IMPOSTO N(8,4), TAXA_IMPOSTO N(10,5), VALOR_IMPOSTO N(8,4)
+Error in line 71: Command contains unrecognized phrase/keyword.
+KeyFieldList = 
+Error in line 85: Syntax error.
+Tables = 
+Error in line 86: Syntax error.
+UpdatableFieldList = 
+Error in line 87: Syntax error.
+UpdateNameList = 
+Error in line 88: Syntax error.
+querylist =      439EMISSAO EMISSAO, MATRIZ_FISCAL MATRIZ_FISCAL, FILIAL FILIAL, NOME_CLIFOR NOME_CLIFOR, NF_SAIDA NF_SAIDA, SERIE_NF SERIE_NF, CHAVE_NFE CHAVE_NFE, CTB_LANCAMENTO CTB_LANCAMENTO, CODIGO_FISCAL_OPERACAO CODIGO_FISCAL_OPERACAO, 
+Error in line 89: Command contains unrecognized phrase/keyword.
+CONTA_CONTABIL_ITEM CONTA_CONTABIL_ITEM, DESC_CONTA DESC_CONTA, CONTA_CONTABIL_IMPOSTO CONTA_CONTABIL_IMPOSTO, ID_IMPOSTO ID_IMPOSTO, BASE_IMPOSTO BASE_IMPOSTO, TAXA_IMPOSTO TAXA_IMPOSTO, VALOR_IMPOSTO VALOR_IMPOSTO
+Error in line 90: Unrecognized command verb.
+captionlist =      438EMISSAO Emissao, MATRIZ_FISCAL Matriz Fiscal, FILIAL Filial, NOME_CLIFOR Nome Clifor, NF_SAIDA Nf Saida, SERIE_NF Serie Nf, CHAVE_NFE Chave Nfe, CTB_LANCAMENTO Ctb Lancamento, CODIGO_FISCAL_OPERACAO Codigo Fiscal Operacao, CONTA_CONTABIL_ITEM Conta Contabil Item, DESC_CONTA Desc Conta, CONTA_CONTABIL_IMPOSTO Conta Contabil Imposto, ID_IMPOSTO Id Imposto, BASE_IMPOSTO Base Imposto, TAXA_IMPOSTO Taxa Imposto, VALOR_IMPOSTO Valor Imposto
+Error in line 91: Command contains unrecognized phrase/keyword.
+defaultsvalueslist = 
+Error in line 92: Syntax error.
+ftablelist = 
+Error in line 93: Syntax error.
+parentcursor = 
+Error in line 94: Syntax error.
+cursoradapter
+Error in line 100: Unrecognized command verb.
+ÎSelectCmd = SELECT EMISSAO,MATRIZ_FISCAL,FILIAL,NOME_CLIFOR,NF_SAIDA,SERIE_NF,CHAVE_NFE,CTB_LANCAMENTO,CODIGO_FISCAL_OPERACAO,CONTA_CONTABIL_ITEM,DESC_CONTA,CONTA_CONTABIL_IMPOSTO,ID_IMPOSTO,BASE_IMPOSTO,TAXA_IMPOSTO,VALOR_IMPOSTO  FROM VW_ZNZ_COFINS_SAIDA
+Error in line 101: Syntax error.
+CursorSchema =      312EMISSAO D, MATRIZ_FISCAL C(25), FILIAL C(25), NOME_CLIFOR C(25), NF_SAIDA C(15), SERIE_NF C(6), CHAVE_NFE C(44), CTB_LANCAMENTO I, CODIGO_FISCAL_OPERACAO C(4), CONTA_CONTABIL_ITEM C(20), DESC_CONTA C(40), CONTA_CONTABIL_IMPOSTO C(20), ID_IMPOSTO I, BASE_IMPOSTO N(8,4), TAXA_IMPOSTO N(10,5), VALOR_IMPOSTO N(8,4)
+Error in line 102: Command contains unrecognized phrase/keyword.
+KeyFieldList = 
+Error in line 116: Syntax error.
+Tables = 
+Error in line 117: Syntax error.
+UpdatableFieldList = 
+Error in line 118: Syntax error.
+UpdateNameList = 
+Error in line 119: Syntax error.
+querylist =      439EMISSAO EMISSAO, MATRIZ_FISCAL MATRIZ_FISCAL, FILIAL FILIAL, NOME_CLIFOR NOME_CLIFOR, NF_SAIDA NF_SAIDA, SERIE_NF SERIE_NF, CHAVE_NFE CHAVE_NFE, CTB_LANCAMENTO CTB_LANCAMENTO, CODIGO_FISCAL_OPERACAO CODIGO_FISCAL_OPERACAO, 
+Error in line 120: Command contains unrecognized phrase/keyword.
+CONTA_CONTABIL_ITEM CONTA_CONTABIL_ITEM, DESC_CONTA DESC_CONTA, CONTA_CONTABIL_IMPOSTO CONTA_CONTABIL_IMPOSTO, ID_IMPOSTO ID_IMPOSTO, BASE_IMPOSTO BASE_IMPOSTO, TAXA_IMPOSTO TAXA_IMPOSTO, VALOR_IMPOSTO VALOR_IMPOSTO
+Error in line 121: Unrecognized command verb.
+captionlist =      438EMISSAO Emissao, MATRIZ_FISCAL Matriz Fiscal, FILIAL Filial, NOME_CLIFOR Nome Clifor, NF_SAIDA Nf Saida, SERIE_NF Serie Nf, CHAVE_NFE Chave Nfe, CTB_LANCAMENTO Ctb Lancamento, CODIGO_FISCAL_OPERACAO Codigo Fiscal Operacao, CONTA_CONTABIL_ITEM Conta Contabil Item, DESC_CONTA Desc Conta, CONTA_CONTABIL_IMPOSTO Conta Contabil Imposto, ID_IMPOSTO Id Imposto, BASE_IMPOSTO Base Imposto, TAXA_IMPOSTO Taxa Imposto, VALOR_IMPOSTO Valor Imposto
+Error in line 122: Command contains unrecognized phrase/keyword.
+defaultsvalueslist = 
+Error in line 123: Syntax error.
+ftablelist = 
+Error in line 124: Syntax error.
+parentcursor = 
+Error in line 125: Syntax error.
+Lx_form1.lx_TitleBar.img_center.DefHeight = 
+Error in line 136: Syntax error.
+Lx_form1.lx_TitleBar.img_center.DefWidth = 
+Error in line 137: Syntax error.
+lx_grid_filha
+Error in line 175: Unrecognized command verb.
+lx_grid_filha
+Error in line 176: Unrecognized command verb.
+tx_nf_entrada
+Error in line 325: Unrecognized command verb.
+tx_DESC_CONTA
+Error in line 362: Unrecognized command verb.
+TX_ID_IMPOSTO
+Error in line 375: Unrecognized command verb.
+lx_grid_filha
+Error in line 397: Unrecognized command verb.
+lx_grid_filha
+Error in line 398: Unrecognized command verb.
+tx_nf_entrada
+Error in line 547: Unrecognized command verb.
+tx_DESC_CONTA
+Error in line 584: Unrecognized command verb.
+TX_ID_IMPOSTO
+Error in line 597: Unrecognized command verb.
+lx_grid_filha
+Error in line 619: Unrecognized command verb.
+lx_grid_filha
+Error in line 620: Unrecognized command verb.
+tx_EMISSAO
+Error in line 746: Unrecognized command verb.
+H_TX_NF_SAIDA
+Error in line 766: Unrecognized command verb.
+H_TX_SERIE_NF
+Error in line 773: Unrecognized command verb.
+tx_DESC_CONTA
+Error in line 809: Unrecognized command verb.
+TX_ID_IMPOSTO
+Error in line 822: Unrecognized command verb.
+lx_grid_filha
+Error in line 844: Unrecognized command verb.
+lx_grid_filha
+Error in line 845: Unrecognized command verb.
+tx_EMISSAO
+Error in line 970: Unrecognized command verb.
+H_TX_NF_SAIDA
+Error in line 990: Unrecognized command verb.
+H_TX_SERIE_NF
+Error in line 997: Unrecognized command verb.
+tx_DESC_CONTA
+Error in line 1033: Unrecognized command verb.
+TX_ID_IMPOSTO
+Error in line 1046: Unrecognized command verb.
+Arial, 0, 9, 5, 15, 12, 32, 3, 0
+Error in line 1068: Unrecognized command verb.

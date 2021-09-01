@@ -1,0 +1,5 @@
+Telas Refeitas para a confecção de padroes ao incluir
+
+##
+	Mudança de nome de arquivo de csm para TMP devido a permissões na pasta do linx
+##
